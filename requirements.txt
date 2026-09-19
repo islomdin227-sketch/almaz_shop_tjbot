@@ -1,0 +1,4 @@
+requests
+Pillow
+pytesseract
+python-telegram-bot==21.6
